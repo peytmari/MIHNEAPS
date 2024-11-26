@@ -1,5 +1,5 @@
 Title and Theme:  
-Title: Hero Roster Challenge  
+Title: Heroes Assemble: The Ultimate Min-Heap Challenge  
 Theme: Assemble and manage a team of superheroes with different power levels using a Min-Heap, ensuring that the weakest heroes are prioritized for smaller tasks. As the roster grows, stronger heroes remain available for more challenging missions, keeping the team balanced and ready for any adventure.  
 
 ---
