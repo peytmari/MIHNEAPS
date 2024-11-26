@@ -11,21 +11,22 @@ Learning Goals:
 
 ---
 
+Tasks:
+1. Insert heroes with their power levels into a Min-Heap and display the heap after each addition.
+2. Remove the hero with the lowest power level and adjust the heap to maintain the Min-Heap property.
+3. Display the list of heroes currently in the Min-Heap, sorted from weakest to strongest.
+4. Exit the system and display a farewell message.
+
+---
+
 Instructions  
-1. Insert Heroes:  
-   - Choose the option to recruit heroes.  
-   - Enter the number of heroes you want to add and their respective power levels.  
-   - Heroes will automatically be inserted into the Min-Heap structure, maintaining the weakest hero at the root.  
+1. Choose the option to add heroes to the roster. Input the number of heroes you want to recruit along with their power levels. The heroes will be inserted into the Min-Heap, ensuring that the weakest hero stays at the top.
 
-2. Remove Weakest Hero:  
-   - Select the option to send the weakest hero (the one with the lowest power level) on a quest.  
-   - The system will remove the weakest hero and re-adjust the heap.  
+2. Select the option to send the weakest hero on a quest. The system will remove the hero with the lowest power level and reorganize the Min-Heap.
 
-3. Display Roster:  
-   - Choose this option to view the current hero roster, sorted from weakest to strongest.  
+3. Pick the option to view the current hero roster. The system will display all heroes, sorted from weakest to strongest.
 
-4. Exit System:  
-   - Select this option when you are done managing the hero roster to exit the program.  
+4. Select the option to exit the program, which will display a farewell message. 
 
 ---
 
